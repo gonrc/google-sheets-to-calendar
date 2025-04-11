@@ -26,7 +26,7 @@ El script lee el rango que definas en la configuración. Cada fila dentro del ra
 | 71.90  | Certificaciones tecnológicas | viernes, 4 de julio de 2025 | 8:00    | martes, 15 de julio de 2025 | 8:00    |
 | ...    | ...                          | ...                          | ...     | ...                          | ...     |
 
-- El código de LA materia es opcional, no se usa.
+- El código de la materia es opcional, no se usa.
 - El nombre de la materia se usa como título del evento.
 - El segundo llamado también es opcional.
 - Si hay filas vacías o incompletas, se omiten automáticamente.
